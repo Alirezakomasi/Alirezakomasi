@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alirezakomasi
-- 👀 I’m interested in making somthing helpefull for peopel 
+- 👀 I’m interested in making somthing helpefull for people
 - 🌱 I’m currently learning frontend development  
 - 📫 you can riche me every where by searching my name!
 
